@@ -1,0 +1,53 @@
+*{
+    background-color: antiquewhite;
+    font-family: 'Poor Story', cursive;
+    line-height: 2;
+}
+/* 
+First Section */
+.first-section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 6%;
+}
+img{
+    height: 190px;
+    width: 190px;
+    margin-right: 10%;
+    margin-top: 35%;
+}
+.intro{
+    padding: 0% 3%;
+    width: 22%;
+}
+h1{
+    font-family: 'Lobster', cursive;
+    text-align: center;
+}
+.intro p{
+    margin-left: 4%;
+}
+/* Second Section  */
+.second-section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 4%;  
+}
+.career{
+    padding: 0% 5%;
+    width: 25%;
+}
+.career p{
+    margin-left: 6%;
+}
+.skills{
+    margin-top: 4%;
+}
+.skill_1{
+    padding-bottom: 2%;
+}
+.skill_2{
+    padding-bottom: 2%;
+}
